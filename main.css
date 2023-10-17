@@ -1,7 +1,8 @@
 body {
   background-color: RGB(177, 205, 227);
-  background-image: url("paper.gif");
-
+  background-image: url("orange_cat.png");
+  background-color: rgba(255, 255, 255, 0.7);
+  background-blend-mode: multiply;
 }
 
 h1 {
