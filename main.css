@@ -1,0 +1,20 @@
+body {
+  background-color: RGB(177, 205, 227);
+  #opacity: 0.7;
+  background-image: url("paper.gif");
+
+}
+
+h1 {
+  color: RGB(122, 182, 41);
+  text-align: center;
+
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+
+}
