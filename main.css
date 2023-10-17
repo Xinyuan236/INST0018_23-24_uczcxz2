@@ -10,6 +10,13 @@ h1 {
 
 }
 
+div.cat {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
 p {
   font-family: verdana;
   font-size: 20px;
